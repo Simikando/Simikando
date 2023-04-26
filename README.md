@@ -3,5 +3,5 @@
 - I’m currently learning Python.
 - I’m looking to collaborate on testing of ascii based game.
 - How to reach me 
-    Discord -> Simikando#2007
+    Discord -> Simikando#4995
     E-Mail -> simondobes007@gmail.com
